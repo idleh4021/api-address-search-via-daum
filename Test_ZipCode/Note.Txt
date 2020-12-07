@@ -1,0 +1,14 @@
+﻿다음 주소 검색 API 입니다.
+
+웹사이트로 접근하기 위해서는 Local PC에 웹사이트를 생성후 index.html파일을 넣어주면 됩니다.
+
+http://localhost/index.html로 접근 해야 합니다.
+(파일로 불러올 경우 자바 스크립트 에러)
+
+Local PC에 웹사이트를 구축하려면
+IIS를 설치 하고,
+Default WebPage가 존재하는 디렉토리에 index.html파일을 넣어준뒤 
+서비스를 시작하고 접근하면 됩니다
+
+
+출처 : https://m.blog.naver.com/PostView.nhn?blogId=airwindtree&logNo=221640441112&proxyReferer=https:%2F%2Fwww.google.com%2F
